@@ -95,7 +95,6 @@ if menu == "Crear reto":
     crear_reto()
 elif menu == "Ver retos":
     ver_retos()
-elif menu == "Mis apuestas":
-    mis_apuestas()
-elif menu == "Azahara":
-    Azahara()
+elif menu == "Amadou":
+    Amadou()
+
